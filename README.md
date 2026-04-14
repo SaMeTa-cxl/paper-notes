@@ -21,104 +21,102 @@
 ### 推理优化
 
 
-- [推测性解码](speculative-decoding.md) (9 篇论文)
+- [推测性解码](paper-list/speculative-decoding.md) (9 篇论文)
 
-- [PD分离](prefill-decoding-disaggregation.md) (1 篇论文)
+- [PD分离](paper-list/prefill-decoding-disaggregation.md) (1 篇论文)
 
-- [Serving](serving.md) (5 篇论文)
+- [Serving](paper-list/serving.md) (5 篇论文)
 
-- [offload](offload.md) (1 篇论文)
+- [offload](paper-list/offload.md) (1 篇论文)
 
 
 
 ### 模型架构
 
 
-- [MoE](moe.md) (5 篇论文)
+- [MoE](paper-list/moe.md) (5 篇论文)
 
-- [DiT](diffusion-transformers.md) (1 篇论文)
+- [DiT](paper-list/diffusion-transformers.md) (1 篇论文)
 
-- [稀疏](sparsity.md) (4 篇论文)
+- [稀疏](paper-list/sparsity.md) (4 篇论文)
 
 
 
 ### 系统优化
 
 
-- [KVCache](kv-cache.md) (32 篇论文)
+- [KVCache](paper-list/kv-cache.md) (32 篇论文)
 
-- [存储优化](memory-optimization.md) (1 篇论文)
+- [存储优化](paper-list/memory-optimization.md) (1 篇论文)
 
-- [量化](quantization.md) (1 篇论文)
+- [量化](paper-list/quantization.md) (1 篇论文)
 
-- [端侧](on-device.md) (1 篇论文)
+- [端侧](paper-list/on-device.md) (1 篇论文)
 
 
 
 ### 训练与编译
 
 
-- [训推一体](unified-training-inference.md) (3 篇论文)
+- [训推一体](paper-list/unified-training-inference.md) (3 篇论文)
 
-- [算子生成](operator-generation.md) (3 篇论文)
+- [算子生成](paper-list/operator-generation.md) (3 篇论文)
 
-- [算子优化](operator-optimization.md) (1 篇论文)
+- [算子优化](paper-list/operator-optimization.md) (1 篇论文)
 
 
 
 ### 其他
 
 
-- [agent](agents.md) (1 篇论文)
+- [agent](paper-list/agents.md) (1 篇论文)
 
-- [RL系统](rl-systems.md) (1 篇论文)
+- [RL系统](paper-list/rl-systems.md) (1 篇论文)
 
 
 
 ## 所有主题
 
 
-- [DiT](diffusion-transformers.md) (1 篇论文)
+- [DiT](paper-list/diffusion-transformers.md) (1 篇论文)
 
-- [KVCache](kv-cache.md) (32 篇论文)
+- [KVCache](paper-list/kv-cache.md) (32 篇论文)
 
-- [MoE](moe.md) (5 篇论文)
+- [MoE](paper-list/moe.md) (5 篇论文)
 
-- [PD分离](prefill-decoding-disaggregation.md) (1 篇论文)
+- [PD分离](paper-list/prefill-decoding-disaggregation.md) (1 篇论文)
 
-- [RL系统](rl-systems.md) (1 篇论文)
+- [RL系统](paper-list/rl-systems.md) (1 篇论文)
 
-- [Serving](serving.md) (5 篇论文)
+- [Serving](paper-list/serving.md) (5 篇论文)
 
-- [agent](agents.md) (1 篇论文)
+- [agent](paper-list/agents.md) (1 篇论文)
 
-- [offload](offload.md) (1 篇论文)
+- [offload](paper-list/offload.md) (1 篇论文)
 
-- [存储优化](memory-optimization.md) (1 篇论文)
+- [存储优化](paper-list/memory-optimization.md) (1 篇论文)
 
-- [推测性解码](speculative-decoding.md) (9 篇论文)
+- [推测性解码](paper-list/speculative-decoding.md) (9 篇论文)
 
-- [稀疏](sparsity.md) (4 篇论文)
+- [稀疏](paper-list/sparsity.md) (4 篇论文)
 
-- [端侧](on-device.md) (1 篇论文)
+- [端侧](paper-list/on-device.md) (1 篇论文)
 
-- [算子优化](operator-optimization.md) (1 篇论文)
+- [算子优化](paper-list/operator-optimization.md) (1 篇论文)
 
-- [算子生成](operator-generation.md) (3 篇论文)
+- [算子生成](paper-list/operator-generation.md) (3 篇论文)
 
-- [训推一体](unified-training-inference.md) (3 篇论文)
+- [训推一体](paper-list/unified-training-inference.md) (3 篇论文)
 
-- [量化](quantization.md) (1 篇论文)
+- [量化](paper-list/quantization.md) (1 篇论文)
 
 
 ## 使用说明
 
 
-1. 在 `paper-list/` 目录中查看简洁的论文列表
+1. 在 `paper-list/` 目录中查看各主题的论文笔记
 
-2. 在 `reading-notes/` 目录中查看详细的阅读笔记（包含思考）
-
-3. 修改Excel后运行脚本自动更新: `python scripts/convert_papers_to_markdown.py`
+2. 修改Excel后运行脚本自动更新: `python scripts/convert_papers_to_markdown.py`
 
 
 ## 更新日志

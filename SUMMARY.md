@@ -3,52 +3,52 @@
 
 - 推理优化
 
-  - [推测性解码](speculative-decoding.md)
+  - [推测性解码](paper-list/speculative-decoding.md)
 
-  - [PD分离](prefill-decoding-disaggregation.md)
+  - [PD分离](paper-list/prefill-decoding-disaggregation.md)
 
-  - [Serving](serving.md)
+  - [Serving](paper-list/serving.md)
 
-  - [offload](offload.md)
+  - [offload](paper-list/offload.md)
 
 
 
 - 模型架构
 
-  - [MoE](moe.md)
+  - [MoE](paper-list/moe.md)
 
-  - [DiT](diffusion-transformers.md)
+  - [DiT](paper-list/diffusion-transformers.md)
 
-  - [稀疏](sparsity.md)
+  - [稀疏](paper-list/sparsity.md)
 
 
 
 - 系统优化
 
-  - [KVCache](kv-cache.md)
+  - [KVCache](paper-list/kv-cache.md)
 
-  - [存储优化](memory-optimization.md)
+  - [存储优化](paper-list/memory-optimization.md)
 
-  - [量化](quantization.md)
+  - [量化](paper-list/quantization.md)
 
-  - [端侧](on-device.md)
+  - [端侧](paper-list/on-device.md)
 
 
 
 - 训练与编译
 
-  - [训推一体](unified-training-inference.md)
+  - [训推一体](paper-list/unified-training-inference.md)
 
-  - [算子生成](operator-generation.md)
+  - [算子生成](paper-list/operator-generation.md)
 
-  - [算子优化](operator-optimization.md)
+  - [算子优化](paper-list/operator-optimization.md)
 
 
 
 - 其他
 
-  - [agent](agents.md)
+  - [agent](paper-list/agents.md)
 
-  - [RL系统](rl-systems.md)
+  - [RL系统](paper-list/rl-systems.md)
 
 
