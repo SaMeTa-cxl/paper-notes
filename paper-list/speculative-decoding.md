@@ -154,6 +154,15 @@ MoE优化效果不佳，能否解决？
 
 GPU和FPGA的异构计算
 
+### AdaServe(Eurosys26) \[[Paper](https://arxiv.org/abs/2501.12162)] \[[Code](https://github.com/zikun-li/AdaServe-Artifact-Evaluation?tab=readme-ov-file)]
 
+**核心思想**
+* 多SLO场景如何尽量满足所有SLO
+* 通过调整推测解码参数（宽度、深度等），动态控制推理速度，从而动态满足不同SLO
+
+**思考**
+* 这篇论文相当于把推测解码应用在了一个实际的推理场景下，构建了一个系统
+* 能不能把推测解码的思路应用在agent场景呢？
+* 比如说推测工具使用？
 ---
 
